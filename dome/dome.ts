@@ -1,0 +1,1 @@
+let dome: string = "dome";
