@@ -1,1 +1,1 @@
-let dome: string = "dome";
+let dome1: string = "dome";
